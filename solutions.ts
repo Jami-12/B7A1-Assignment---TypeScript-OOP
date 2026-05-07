@@ -17,9 +17,9 @@ type StringOrNumber = string | number;
 const checkType = (value: StringOrNumber): string => {
   if (typeof value === "string") {
     return "String";
+  }else{
+    return "Number";
   }
-
-  return "Number";
 };
 
 // Problem 4
