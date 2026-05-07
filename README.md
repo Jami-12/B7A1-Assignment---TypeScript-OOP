@@ -32,7 +32,7 @@
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Jami-12/typeScriptAssaingment-1.git](https://github.com/Jami-12/typeScriptAssaingment-1.git)
+   git clone [https://github.com/Jami-12/typeScriptAssaingment-1.git](https://github.com/Jami-12/B7A1-Assignment---TypeScript-OOP.git)
 
 # Run the solution file: node solutions.ts
 
